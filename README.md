@@ -7,7 +7,8 @@ This minigame demonstrate 4 different compasses for video games:
 - An all around the screen compass that uses a custom mesh
 
 All of these compasses are made with the same starting texture:
-![The original compass image](https://github.com/LudovicAL/Compasses/Assets/Textures/CompassFlat.png)
+
+![The original compass image](https://github.com/LudovicAL/Compasses/blob/main/Assets/Textures/CompassFlat.png?raw=true)
 
 An online version of the game can be accessed at https://ludovical.github.io/Compasses/
 (note that the page could take a few minutes to load the WebGL player in the background).
